@@ -13,6 +13,7 @@ At Infit Corporation, we specialize in:
 - **Bootstrap**: Popular front-end framework for building responsive, mobile-first websites.
 - **JavaScript**: Adding interactivity and functionality to web pages.
 - **React**: A JavaScript library for building user interfaces (currently learning and integrating).
+- **Next.js**: React framework for building server-side rendered and static websites.
 
 ### Backend Technologies
 - **Node.js**: JavaScript runtime for building scalable server-side applications.
@@ -20,16 +21,15 @@ At Infit Corporation, we specialize in:
 - **MongoDB**: NoSQL database for flexible and scalable data storage.
 - **MySQL**: Relational database management system for structured data storage.
 - **Python**: Programming language for various backend tasks and services.
-- **Django**: High-level Python web framework for building robust and secure web applications.
 
-Our mission is to deliver top-notch web solutions and adapt to the ever-evolving tech landscape. We aim to empower businesses and individuals with the tools they need to succeed in a digital world.
+We aim to deliver top-notch web solutions and adapt to the ever-evolving tech landscape. We aim to empower businesses and individuals with the tools they need to succeed in a digital world.
 
 ## 🤝 Contribution Guidelines
 
 We’re always looking for talented individuals and collaborators to join our journey. If you're interested in contributing or working with us, here’s how you can get involved:
 1. **Reach Out**: Contact us via our [contact page](#) or directly through email.
 2. **Submit Ideas**: Share your proposals and ideas for projects or improvements.
-3. **Collaborate**: If you have skills or experience in other areas of technology, we’d love to hear how you can contribute.
+3. **Collaborate**: We'd love to hear how you can contribute if you have skills or experience in other technology areas.
 
 ## 📚 Useful Resources
 
@@ -42,7 +42,7 @@ Our team kicks off the day with a variety of breakfasts—ranging from classic c
 
 ## 🧙 Remember
 
-You can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Customize this README to fit your needs and share your contributions with the community.
+You can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ---
 
